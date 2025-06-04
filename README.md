@@ -4,21 +4,19 @@
 - 🌱 I’m currently learning <strong>Cybersecurity</strong>  
 - 📫 How to reach me: <a href="mailto:karolearnav@gmail.com">karolearnav@gmail.com</a>
 
-<!-- Two-column layout starts -->
 <table>
   <tr>
-    <!-- Left Side: Content -->
     <td valign="top" width="70%">
       <h3 align="left">Connect with me:</h3>
       <p align="left">
         <a href="https://linkedin.com/in/arnav-karole" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-karole" height="30" width="40" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
         <a href="https://www.hackerrank.com/karolearnav" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karolearnav" height="30" width="40" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
         </a>
         <a href="https://www.leetcode.com/arnavkarole" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnavkarole" height="30" width="40" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
         </a>
       </p>
 
@@ -40,7 +38,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         </a>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
         </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -54,14 +52,12 @@
       </p>
     </td>
 
-    <!-- Right Side: GIF -->
     <td valign="top" align="right" width="30%">
       <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="250" />
     </td>
   </tr>
 </table>
 
-<!-- Optional: Language stats -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brrain7&show_icons=true&locale=en&layout=compact" alt="brrain7" />
 </p>
